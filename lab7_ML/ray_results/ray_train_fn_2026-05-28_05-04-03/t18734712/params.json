@@ -1,0 +1,6 @@
+{
+  "dropout": 0.3,
+  "layers": "128_64",
+  "lr": 0.001432056698098135,
+  "optimizer": "rmsprop"
+}

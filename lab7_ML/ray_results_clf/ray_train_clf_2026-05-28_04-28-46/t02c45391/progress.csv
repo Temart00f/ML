@@ -1,0 +1,2 @@
+val_pr_auc,timestamp,checkpoint_dir_name,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+0.5176001787185669,1779921013,,False,1,02c45391,2026-05-28_04-30-13,29.714765310287476,29.714765310287476,12820,DESKTOP-94BN0ID,127.0.0.1,29.714765310287476,1
